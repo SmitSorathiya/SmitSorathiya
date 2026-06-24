@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **C, HTML, CSS, C++, Python**
+- 💬 Ask me about **C, HTML, CSS, C++, Python, SQL**
 
 - 📫 How to reach me **smitssorathiya30@gmail.com**
 
